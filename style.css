@@ -1,0 +1,8 @@
+p
+{
+    font-weight: 200px;   /*textning qalinligi*/
+    font-style: italic;
+    text-decoration: underline;   /*textga chiziq chizish*/  /*line-through,overline,underline*/
+    font-size: 25px;
+    line-height: 2.6;
+}

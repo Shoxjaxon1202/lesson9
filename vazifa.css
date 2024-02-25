@@ -1,0 +1,32 @@
+body
+{
+    background-color: crimson;
+    margin: 0;
+    padding: 0;
+    display:inline;
+}
+h1
+{
+    margin-top: 60px;
+    font-style:oblique;
+    color: white;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.about,.about1
+{
+    text-align: center;
+    margin: 15px;
+    padding: 40px 60px;
+    border-radius: 5px;
+    display: inline-block;
+    background-color: white;
+}
+.about1
+{
+    margin-left: 400px;
+}
+h4
+{
+    color: crimson;
+}
